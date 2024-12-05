@@ -1,4 +1,4 @@
 hello git
 hello git
-hello git 666
+hello git
 这是master的hello.txt
